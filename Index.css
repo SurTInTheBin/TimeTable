@@ -3,7 +3,7 @@ body{
   font-family:"PT Mono";
   background-image: url(./Image/bgcheck.jpg);
   background-repeat: no-repeat;
-  background-size:  1400px 1100px;
+  background-size:  1200px 900px;
 }
 
 
@@ -26,7 +26,7 @@ h1{
 
 
 .menu button{
-  background-color: rgb(255, 255, 255,0.10);
+  background-color: rgba(255, 255, 255, 0.129);
   font-family: "PT Mono";
   display: flex;
   border: solid;
@@ -81,7 +81,7 @@ h1{
 
 
 .Theory_1{
-  background-color: rgba(255, 255, 255,0.10);
+  background-color: rgba(255, 255, 255, 0.201);
   color: rgb(255, 255, 255);
   height: 70px;
   margin-left: 10px;
@@ -99,7 +99,7 @@ h1{
 
 
 .Theory_2{
-  background-color: rgba(255, 255, 255,0.10);
+  background-color: rgba(255, 255, 255,0.201);
   color: rgb(255, 255, 255);
   height: 70px;
   margin-left: 10px;
@@ -116,7 +116,7 @@ h1{
 }
 
 .Theory_3{
-  background-color: rgba(255, 255, 255,0.10);
+  background-color: rgba(255, 255, 255,0.201);
   color: rgb(255, 255, 255);
   height: 70px;
   margin-left: 10px;
@@ -133,7 +133,7 @@ h1{
 }
 
 .Theory_4{
-  background-color: rgba(255, 255, 255,0.10);
+  background-color: rgba(255, 255, 255,0.201);
   color: rgb(255, 255, 255);
   height: 70px;
   margin-left: 10px;
@@ -151,7 +151,7 @@ h1{
 
 
 .Lab_1{
-  background-color: rgba(255, 255, 255,0.10);
+  background-color: rgba(255, 255, 255,0.201);
   color: rgb(255, 255, 255);
   height: 70px;
   margin-left: 10px;
