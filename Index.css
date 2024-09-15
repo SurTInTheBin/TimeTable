@@ -1,0 +1,168 @@
+body{
+  background-color: rgb(46, 44, 44);
+  font-family:"PT Mono";
+  background-image: url(../images/abstract-gradient-background-with-grain-texture-captivating-noise-airbrush-minimalist-wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: 1920px 1060px;
+}
+
+
+
+h1{
+  text-align: center;
+  color: rgb(236, 185, 0);
+  text-shadow: 3px 3px 10px;
+}
+
+
+.menu { 
+  background-color: rgb(46, 44, 44, 0);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.menu button{
+  background-color: rgb(255, 255, 255,0.10);
+  font-family: "PT Mono";
+  display: flex;
+  border: solid;
+  border-radius: 20px;
+  border-color: black;
+  border-width: 1px;
+  padding: 3px 25px;
+  cursor: pointer;
+  transition: box-shadow 0.5s;
+}
+
+
+.menu a{
+  text-decoration: none;
+  color: white;
+}
+
+
+.menu .active{
+  background-color: rgb(185, 143, 47);
+  box-shadow: 3px 3px 10px rgb(200, 138, 22);
+}
+
+
+.menu button:hover{
+  box-shadow: 3px 4px 7px rgb(70, 70, 70);
+}
+
+.space{
+  height: 25px;
+}
+
+.TC_head{
+  color: rgb(236, 185, 0);
+  display: flex;
+  flex-wrap: wrap;
+  text-shadow: 5px 5px 7px rgb(236, 185, 0);
+  font-size: larger;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.LC_head{
+  color: rgb(236, 185, 0);
+  display: flex;
+  flex-wrap: wrap;
+  text-shadow: 3px 3px 7px rgb(236, 185, 0);
+  font-size: larger;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+
+.Theory_1{
+  background-color: rgba(255, 255, 255,0.10);
+  color: rgb(255, 255, 255);
+  height: 70px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-bottom: auto;
+  padding-top: 15px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.Theory_1::first-line{
+  color: rgb(236, 185, 0);
+}
+
+
+.Theory_2{
+  background-color: rgba(255, 255, 255,0.10);
+  color: rgb(255, 255, 255);
+  height: 70px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-bottom: auto;
+  padding-top: 15px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.Theory_2:first-line{
+  color: rgb(236, 185, 0);
+}
+
+.Theory_3{
+  background-color: rgba(255, 255, 255,0.10);
+  color: rgb(255, 255, 255);
+  height: 70px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-bottom: auto;
+  padding-top: 15px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.Theory_3::first-line{
+  color: rgb(236, 185, 0);
+}
+
+.Theory_4{
+  background-color: rgba(255, 255, 255,0.10);
+  color: rgb(255, 255, 255);
+  height: 70px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-bottom: auto;
+  padding-top: 15px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.Theory_4::first-line{
+  color: rgb(236, 185, 0);
+}
+
+
+.Lab_1{
+  background-color: rgba(255, 255, 255,0.10);
+  color: rgb(255, 255, 255);
+  height: 70px;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-bottom: auto;
+  padding-top: 15px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.Lab_1::first-line{
+  color: rgb(236, 185, 0);
+}
