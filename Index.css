@@ -1,9 +1,9 @@
 body{
   background-color: rgb(46, 44, 44);
   font-family:"PT Mono";
-  background-image: url(./Image/bgcheck.jpg);
+  background-image: url(./Image/bg.jpg);
   background-repeat: no-repeat;
-  background-size:  1200px 900px;
+  background-size:  1920px 1200px;
 }
 
 
