@@ -1,0 +1,50 @@
+{
+  "id": "/",
+  "Scope": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "timetable",
+  "display": "fullscreen",
+  "name": "timetable",
+  "lang": "english",
+  "short_name": "timetable",
+  "start_url": "./index.html",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
